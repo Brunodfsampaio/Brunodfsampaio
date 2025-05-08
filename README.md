@@ -1,4 +1,4 @@
-![Bruno_Sampaio_Estagio_TI_Cloud_redes_Networking_AWS_Analista - Copia](https://github.com/user-attachments/assets/9ca41174-689b-4d66-b0cd-f687a27d1967)
+![Bruno_Sampaio_Estagio_TI_Cloud_redes_Networking_AWS_Analista](https://github.com/user-attachments/assets/511833c9-6966-4b6c-a7f2-607d14ebfc23)
 <div  align="center"> 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Sampaio;I+am+from+Brazil;Computer+Networks+and+Cloud+Computing+Student;Be+Welcome!)
