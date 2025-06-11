@@ -13,18 +13,30 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Bruno Sampaio! A passionate Information Technology student from Brazil.
+  Olá 👋, Eu sou Bruno Sampaio, um estudante brasileiro apaixonado por tecnologia da informação.
 
-🌱 I’m currently studying Computer Networks and Cloud Computing.
+🌱 Atualmente eu estou estudando sobre Cloud Computing e Redes de Computadores.
 
-🔭 I am looking for my first job opportunity. My dream is to one day work with Cloud Engineer & Security.
+🔭 Estou procurando minha primeira oportunidade de trabalho na área e meu sonho é um dia trabalhar como Cloud Engineer & Security.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>💬 More about me</summary>
 
-  🚀  I am 35 years old, with a degree in Architecture and Urbanism, and experience in multi-family, commercial, and high-end architecture, I am a professional transitioning my career to Information Technology. I am currently studying for a degree in Computer Networks and a postgraduate degree in Cyber ​​Defense and Networks and Distributed Computing. I have theoretical knowledge in security standards such as ISO 27001, LGPD, and cybersecurity frameworks (NIST, MITRE). I am currently in the process of obtaining certification as an AWS Certified Cloud Practitioner through the AWS Re/Start program and also taking the specialization stage of the Hackers do Bem program in DevSecOps.
+  🚀  Olá, sou Bruno Sampaio, um profissional em transição de carreira, com 8 anos de sólida experiência em Arquitetura e Urbanismo através de projetos multifamiliares, comerciais e de alto padrão. Hoje estou direcionando minha expertise para a Tecnologia da Informação, com foco em Cloud Computing, Redes e Infraestrutura de TI.
+
+Atualmente, venho ampliando meus conhecimentos através de uma graduação em Redes de Computadores e pós-graduação em Defesa Cibernética e Redes e Computação Distribuída.
+
+Possuo a certificação AWS Certified Cloud Practitioner e conhecimentos em frameworks de segurança e compliance como ISO 27001, LGPD e MITRE ATT&CK. 
+
+Minha expertise técnica inclui infraestrutura em nuvem AWS, automação de ambientes cloud, implementação de boas práticas de segurança e configuração de redes. Estou em constante aprendizado e aprimoramento para atuar com eficiência em ambientes de TI, onde atualmente, estou me preparando para a AWS Certified Solutions Architect – Associate.
+
+Minha trajetória profissional é caracterizada pela determinação e capacidade de adaptação, atributos que me permitem enfrentar desafios e buscar soluções inovadoras. Valorizo comunicação clara e trabalho colaborativo, sempre buscando resultados de excelência.
+
+Meu objetivo atual é ingressar em uma posição júnior ou estágio em cloud computing, redes ou infraestrutura de TI, onde eu possa aplicar meus conhecimentos teóricos e de laboratórios em ambientes reais!
+
+Estou aberto a oportunidades que me permitam crescer neste novo campo de atuação e continuar minha jornada de desenvolvimento profissional em TI.
 </details>
 
 <!-- Links -->
@@ -34,6 +46,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [AWS Certified Cloud Practitioner Free Labs](https://github.com/Brunodfsampaio/AWS-Practitioner-Hands-on-labs)
+- [AWS Solutions Architect Associate Free Labs](https://github.com/Brunodfsampaio/AWS-Solutions-Architect-Associate)
 
 <!-- GIF -->
 <p align="center">
