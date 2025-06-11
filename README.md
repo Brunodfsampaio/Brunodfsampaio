@@ -17,7 +17,7 @@
 
 🌱 I’m currently studying Computer Networks and Cloud Computing.
 
-🔭 I am looking for my first job opportunity. My dream is to one day work with Cloud Security and DevOps.
+🔭 I am looking for my first job opportunity. My dream is to one day work with Cloud Engineer & Security.
 </p>
 
 <!-- Dropdown -->
